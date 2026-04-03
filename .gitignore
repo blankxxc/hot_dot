@@ -31,3 +31,7 @@ Desktop.ini
 
 # Logs
 *.log
+
+# Data files
+*.json
+*.txt
