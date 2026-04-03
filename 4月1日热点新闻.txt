@@ -1,0 +1,1173 @@
+======================================================================
+  4月1日 新闻热点聚合分析报告
+  生成时间: 2026-04-02 11:37:28
+  共爬取 255 条热点，聚合为 68 个话题
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  #1  [其他] 回应/专家/变更  (63 条, 6 个平台) *****
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 覃予萱冲击女单8强
+     热度:7423832
+     链接: https://www.baidu.com/s?wd=%E8%A6%83%E4%BA%88%E8%90%B1%E5%86%B2%E5%87%BB%E5%A5%B3%E5%8D%958%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news
+     查看更多>
+  2. [百度热搜] 深圳高铁站台全面禁烟 最高罚500元
+     热度:6757947
+     链接: https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E9%AB%98%E9%93%81%E7%AB%99%E5%8F%B0%E5%85%A8%E9%9D%A2%E7%A6%81%E7%83%9F+%E6%9C%80%E9%AB%98%E7%BD%9A500%E5%85%83&sa=fyb_news&rsv_dl=fyb_news
+     查看更多>
+  3. [百度热搜] 起猛了 在成都看到关公开公交
+     热度:5713930
+     链接: https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E5%9C%A8%E6%88%90%E9%83%BD%E7%9C%8B%E5%88%B0%E5%85%B3%E5%85%AC%E5%BC%80%E5%85%AC%E4%BA%A4&sa=fyb_news&rsv_dl=fyb_news
+     近日，成都推出“三国寻梦线”主题巴士‌，武侯祠博物馆与公交集团合作，由司机扮成关公形象驾驶双层巴士，汉服NPC全程陪同游...查看更多>
+  4. [百度热搜] 黄子韬自曝不拍戏原因
+     热度:5132270
+     链接: https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E9%9F%AC%E8%87%AA%E6%9B%9D%E4%B8%8D%E6%8B%8D%E6%88%8F%E5%8E%9F%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news
+     据4月1日网友爆料，黄子韬在直播里的一番“真心话”，直接把自己送上了热搜。他坦言自己现在“基本会少少少上一些”娱乐圈的工...查看更多>
+  5. [百度热搜] 小车停车库半年车身写满留言
+     热度:4475043
+     链接: https://www.baidu.com/s?wd=%E5%B0%8F%E8%BD%A6%E5%81%9C%E8%BD%A6%E5%BA%93%E5%8D%8A%E5%B9%B4%E8%BD%A6%E8%BA%AB%E5%86%99%E6%BB%A1%E7%95%99%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news
+     近日，长沙海信广场地下车库一台“僵尸车”引发广泛关注：由于停放很久，车身积满厚厚灰尘，被路人写了很多有趣留言。4月1日，...查看更多>
+  6. [百度热搜] 何润东为演项羽曾增肌到80公斤
+     热度:4287789
+     链接: https://www.baidu.com/s?wd=%E4%BD%95%E6%B6%A6%E4%B8%9C%E4%B8%BA%E6%BC%94%E9%A1%B9%E7%BE%BD%E6%9B%BE%E5%A2%9E%E8%82%8C%E5%88%B080%E5%85%AC%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news
+     查看更多>
+  7. [百度热搜] 年轻人为啥流行找“搭子”
+     热度:4171367
+     链接: https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E6%B5%81%E8%A1%8C%E6%89%BE%E2%80%9C%E6%90%AD%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news
+     当下年轻人流行找“搭子”社交，既能自在独处又不封闭自己。黄冈青年通过技能搭子学习技艺、结识同好；敦煌游客则结伴旅行，互相...查看更多>
+  8. [百度热搜] 商场半开放男童厕所引质疑 商场回应
+     热度:3227609
+     链接: https://www.baidu.com/s?wd=%E5%95%86%E5%9C%BA%E5%8D%8A%E5%BC%80%E6%94%BE%E7%94%B7%E7%AB%A5%E5%8E%95%E6%89%80%E5%BC%95%E8%B4%A8%E7%96%91+%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news
+     3月31日，哈尔滨松北万象汇商场因设置半开放式男童厕所引发争议，部分网民质疑该设计侵犯儿童隐私权。4月1日，商场回应称该...查看更多>
+  9. [微博热搜] 天宫画展再上新
+     热度:682363
+     链接: https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%AB%E7%94%BB%E5%B1%95%E5%86%8D%E4%B8%8A%E6%96%B0%23
+     天宫画展再上新
+  10. [微博热搜] 田曦薇FILAFUSION潮流代言人
+     热度:258657
+     链接: https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87FILAFUSION%E6%BD%AE%E6%B5%81%E4%BB%A3%E8%A8%80%E4%BA%BA%23
+     田曦薇FILAFUSION潮流代言人
+  11. [微博热搜] 宝珠
+     热度:257274
+     链接: https://s.weibo.com/weibo?q=%23%E5%AE%9D%E7%8F%A0%23
+     宝珠
+  12. [微博热搜] 杨紫 没人通知我啊
+     热度:208423
+     链接: https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E6%B2%A1%E4%BA%BA%E9%80%9A%E7%9F%A5%E6%88%91%E5%95%8A%23
+     杨紫 没人通知我啊
+  13. [微博热搜] 肖战出发青岛
+     热度:199803
+     链接: https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%87%BA%E5%8F%91%E9%9D%92%E5%B2%9B%23
+     肖战出发青岛
+  14. [微博热搜] 王者荣耀无双
+     热度:199331
+     链接: https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%8F%8C%23
+     王者荣耀无双
+  15. [微博热搜] 曝短剧男顶忘本
+     热度:149948
+     链接: https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%9F%AD%E5%89%A7%E7%94%B7%E9%A1%B6%E5%BF%98%E6%9C%AC%23
+     曝短剧男顶忘本
+  16. [微博热搜] 王菲俞飞鸿聚餐
+     热度:149869
+     链接: https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E4%BF%9E%E9%A3%9E%E9%B8%BF%E8%81%9A%E9%A4%90%23
+     王菲俞飞鸿聚餐
+  17. [微博热搜] 与辉同行卖优思益销售额超千万
+     热度:146526
+     链接: https://s.weibo.com/weibo?q=%23%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%8D%96%E4%BC%98%E6%80%9D%E7%9B%8A%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%85%E5%8D%83%E4%B8%87%23
+     与辉同行卖优思益销售额超千万
+  18. [微博热搜] 白日提灯热度
+     热度:135189
+     链接: https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E7%83%AD%E5%BA%A6%23
+     白日提灯热度
+  19. [微博热搜] 侮辱赵丽颖的汪诚公开道歉
+     热度:130181
+     链接: https://s.weibo.com/weibo?q=%23%E4%BE%AE%E8%BE%B1%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E6%B1%AA%E8%AF%9A%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23
+     侮辱赵丽颖的汪诚公开道歉
+  20. [微博热搜] 加油站开业请模特穿紧身短裙搞促销
+     热度:110261
+     链接: https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%BC%80%E4%B8%9A%E8%AF%B7%E6%A8%A1%E7%89%B9%E7%A9%BF%E7%B4%A7%E8%BA%AB%E7%9F%AD%E8%A3%99%E6%90%9E%E4%BF%83%E9%94%80%23
+     加油站开业请模特穿紧身短裙搞促销
+  21. [微博热搜] 怪不得上大学老了这么多
+     热度:97791
+     链接: https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%80%81%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%23
+     怪不得上大学老了这么多
+  22. [微博热搜] 教体局回应小学要求早上6点40到校
+     热度:93194
+     链接: https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E8%A6%81%E6%B1%82%E6%97%A9%E4%B8%8A6%E7%82%B940%E5%88%B0%E6%A0%A1%23
+     教体局回应小学要求早上6点40到校
+  23. [微博热搜] 和平精英
+     热度:87838
+     链接: https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%23
+     和平精英
+  24. [微博热搜] 这才是我磕的双生姐妹花
+     热度:85714
+     链接: https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E6%88%91%E7%A3%95%E7%9A%84%E5%8F%8C%E7%94%9F%E5%A7%90%E5%A6%B9%E8%8A%B1%23
+     这才是我磕的双生姐妹花
+  25. [微博热搜] 感觉迪丽热巴从头到脚都香香的
+     热度:83672
+     链接: https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BB%8E%E5%A4%B4%E5%88%B0%E8%84%9A%E9%83%BD%E9%A6%99%E9%A6%99%E7%9A%84%23
+     感觉迪丽热巴从头到脚都香香的
+  26. [微博热搜] 原来锅贴是真的贴在锅上的
+     热度:83523
+     链接: https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%94%85%E8%B4%B4%E6%98%AF%E7%9C%9F%E7%9A%84%E8%B4%B4%E5%9C%A8%E9%94%85%E4%B8%8A%E7%9A%84%23
+     原来锅贴是真的贴在锅上的
+  27. [知乎热榜] 现实中真的有丁元英这样的人吗？
+     热度:218 万热度
+     链接: https://www.zhihu.com/question/302831101
+     现实中有没有丁元英这样的人？如果有他的成就会有多大？
+  28. [知乎热榜] 如何锻炼自己不怯场的能力？
+     热度:71 万热度
+     链接: https://www.zhihu.com/question/1997669134322927421
+  29. [知乎热榜] 你心中能代表推理文学巅峰的作品，究竟是哪一部？
+     热度:58 万热度
+     链接: https://www.zhihu.com/question/2020179116561822954
+  30. [知乎热榜] 你旅行时买过最后悔的纪念品是什么？
+     热度:55 万热度
+     链接: https://www.zhihu.com/question/59547946
+     很多人都有在旅行时买纪念品的的习惯。除了常规的冰箱贴、马克杯，我们可能也会突发奇想买一些奇（gui）妙（yi）的纪念品回来，让自己追悔莫及。你旅行时买过最后悔的...
+  31. [今日头条] 县委书记“六秒致辞”火了
+     热度:22613007
+     链接: https://www.toutiao.com/trending/7623614387089784851/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623614387089784851%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E2%80%9C%E5%85%AD%E7%A7%92%E8%87%B4%E8%BE%9E%E2%80%9D%E7%81%AB%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7623614387089784851
+  32. [今日头条] 脑机接口加速落地
+     热度:20461095
+     链接: https://www.toutiao.com/article/7623698176617022004
+  33. [今日头条] 在美出生即公民或彻底终结
+     热度:18513964
+     链接: https://www.toutiao.com/trending/7623313272939233289/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623313272939233289%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9C%A8%E7%BE%8E%E5%87%BA%E7%94%9F%E5%8D%B3%E5%85%AC%E6%B0%91%E6%88%96%E5%BD%BB%E5%BA%95%E7%BB%88%E7%BB%93%22%7D&rank=&style_id=40132&topic_id=7623313272939233289
+  34. [今日头条] 勾结男团司机售卖艺人隐私3人被抓
+     热度:15157952
+     链接: https://www.toutiao.com/trending/7623632292754079787/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623632292754079787%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8B%BE%E7%BB%93%E7%94%B7%E5%9B%A2%E5%8F%B8%E6%9C%BA%E5%94%AE%E5%8D%96%E8%89%BA%E4%BA%BA%E9%9A%90%E7%A7%813%E4%BA%BA%E8%A2%AB%E6%8A%93%22%7D&rank=&style_id=40132&topic_id=7623632292754079787
+  35. [今日头条] 谢泼德轰新高9记三分
+     热度:12410281
+     链接: https://www.toutiao.com/trending/7623963051292803126/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623963051292803126%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B0%A2%E6%B3%BC%E5%BE%B7%E8%BD%B0%E6%96%B0%E9%AB%989%E8%AE%B0%E4%B8%89%E5%88%86%22%7D&rank=&style_id=40132&topic_id=7623963051292803126
+  36. [今日头条] 人贩子拐卖十余名儿童已被执行死刑
+     热度:10160679
+     链接: https://www.toutiao.com/trending/7623057556513996843/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623057556513996843%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E5%8D%81%E4%BD%99%E5%90%8D%E5%84%BF%E7%AB%A5%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%22%7D&rank=&style_id=40132&topic_id=7623057556513996843
+  37. [今日头条] 人民日报评张雪回答引误读
+     热度:4565487
+     链接: https://www.toutiao.com/trending/7622655198495326271/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622655198495326271%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%BC%A0%E9%9B%AA%E5%9B%9E%E7%AD%94%E5%BC%95%E8%AF%AF%E8%AF%BB%22%7D&rank=&style_id=40132&topic_id=7622655198495326271
+  38. [今日头条] 烟台市副市长包华被查
+     热度:1856188
+     链接: https://www.toutiao.com/trending/7623978259264343558/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623978259264343558%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%83%9F%E5%8F%B0%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E5%8C%85%E5%8D%8E%E8%A2%AB%E6%9F%A5%22%7D&rank=&style_id=40132&topic_id=7623978259264343558
+  39. [今日头条] 阿联酋已拦截超2000架无人机
+     热度:1679548
+     链接: https://www.toutiao.com/trending/7622730786827157545/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622730786827157545%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%98%BF%E8%81%94%E9%85%8B%E5%B7%B2%E6%8B%A6%E6%88%AA%E8%B6%852000%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%22%7D&rank=&style_id=40132&topic_id=7622730786827157545
+  40. [今日头条] 外卖小哥电摩没挂牌照被查扣
+     热度:1018697
+     链接: https://www.toutiao.com/trending/7623626705710874630/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623626705710874630%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%94%B5%E6%91%A9%E6%B2%A1%E6%8C%82%E7%89%8C%E7%85%A7%E8%A2%AB%E6%9F%A5%E6%89%A3%22%7D&rank=&style_id=40132&topic_id=7623626705710874630
+  41. [今日头条] 乡村路硬化等了8年两度落空
+     热度:921756
+     链接: https://www.toutiao.com/trending/7623803868857696283/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623803868857696283%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B9%A1%E6%9D%91%E8%B7%AF%E7%A1%AC%E5%8C%96%E7%AD%89%E4%BA%868%E5%B9%B4%E4%B8%A4%E5%BA%A6%E8%90%BD%E7%A9%BA%22%7D&rank=&style_id=40132&topic_id=7623803868857696283
+  42. [今日头条] 中国最强东西大动脉要来了
+     热度:754670
+     链接: https://www.toutiao.com/trending/7623662543868792374/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623662543868792374%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%BC%BA%E4%B8%9C%E8%A5%BF%E5%A4%A7%E5%8A%A8%E8%84%89%E8%A6%81%E6%9D%A5%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7623662543868792374
+  43. [今日头条] 国乒男线对德3连败
+     热度:682853
+     链接: https://www.toutiao.com/trending/7623824387834527785/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623824387834527785%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E4%B9%92%E7%94%B7%E7%BA%BF%E5%AF%B9%E5%BE%B73%E8%BF%9E%E8%B4%A5%22%7D&rank=&style_id=40132&topic_id=7623824387834527785
+  44. [今日头条] 广东顺德“莫氏鸡煲”意外爆红
+     热度:617871
+     链接: https://www.toutiao.com/trending/7623417217535180806/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623417217535180806%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B9%BF%E4%B8%9C%E9%A1%BA%E5%BE%B7%E2%80%9C%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E2%80%9D%E6%84%8F%E5%A4%96%E7%88%86%E7%BA%A2%22%7D&rank=&style_id=40132&topic_id=7623417217535180806
+  45. [今日头条] 奇瑞00后女员工实名举报高管性骚扰
+     热度:505870
+     链接: https://www.toutiao.com/trending/7623594666915004458/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623594666915004458%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%87%E7%91%9E00%E5%90%8E%E5%A5%B3%E5%91%98%E5%B7%A5%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E9%AB%98%E7%AE%A1%E6%80%A7%E9%AA%9A%E6%89%B0%22%7D&rank=&style_id=40132&topic_id=7623594666915004458
+  46. [今日头条] 农历二月十五满月迎福
+     热度:414171
+     链接: https://www.toutiao.com/trending/7623716185146671155/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623716185146671155%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%86%9C%E5%8E%86%E4%BA%8C%E6%9C%88%E5%8D%81%E4%BA%94%E6%BB%A1%E6%9C%88%E8%BF%8E%E7%A6%8F%22%7D&rank=&style_id=40132&topic_id=7623716185146671155
+  47. [今日头条] 火箭若想冲西部前五要看他人脸色吗
+     热度:306825
+     链接: https://www.toutiao.com/trending/7623041825420754990/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623041825420754990%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%81%AB%E7%AE%AD%E8%8B%A5%E6%83%B3%E5%86%B2%E8%A5%BF%E9%83%A8%E5%89%8D%E4%BA%94%E8%A6%81%E7%9C%8B%E4%BB%96%E4%BA%BA%E8%84%B8%E8%89%B2%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7623041825420754990
+  48. [今日头条] 马科斯想和中方重启油气勘探谈判
+     热度:227302
+     链接: https://www.toutiao.com/trending/7622598369644658730/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622598369644658730%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A9%AC%E7%A7%91%E6%96%AF%E6%83%B3%E5%92%8C%E4%B8%AD%E6%96%B9%E9%87%8D%E5%90%AF%E6%B2%B9%E6%B0%94%E5%8B%98%E6%8E%A2%E8%B0%88%E5%88%A4%22%7D&rank=&style_id=40132&topic_id=7622598369644658730
+  49. [网易新闻] 热搜！小龙虾上市了，价格比去年还便宜，专家解释其中原因
+     时间:2026-04-01 18:41:02
+     链接: https://m.163.com/news/article/KPEUC5Q20549HWZA.html
+  50. [网易新闻] 珠海中富：筹划公司控制权变更事项，股票4月2日起停牌
+     时间:2026-04-01 18:13:27
+     链接: https://m.163.com/news/article/KPESTKQ10534A4SC.html
+  51. [网易新闻] 旭升集团最新公告：控股股东及实际控制人变更完成
+     时间:2026-04-01 17:55:06
+     链接: https://m.163.com/news/article/KPERS2EI051984TV.html
+  52. [网易新闻] 史丹利：磷酸铁装置暂未投入生产，将适时推进产能释放
+     时间:2026-04-01 17:33:18
+     链接: https://m.163.com/news/article/KPEQK5FS0519QIKK.html
+  53. [网易新闻] 2月份ABS产品新增备案96只
+     时间:2026-04-01 16:28:32
+     链接: https://m.163.com/news/article/KPEMTHVU05346RC6.html
+  54. [网易新闻] 华秦科技：签订1.03亿元航空发动机用特种功能材料销售合同
+     时间:2026-04-01 16:13:18
+     链接: https://m.163.com/news/article/KPEM1L5P05198CJN.html
+  55. [网易新闻] “粉底液将军”引发争议，钧正平指责损害军人形象
+     时间:2026-04-01 15:44:47
+     链接: https://m.163.com/news/article/KPEKC2HG0552NAJP.html
+  56. [网易新闻] 雷军：5小时，直播拆一台新SU7
+     时间:2026-04-01 15:14:54
+     链接: https://m.163.com/news/article/KPEIMNHQ053469M5.html
+  57. [网易新闻] 85后宝妈辅导作业遭遇“鬼剃头”，头顶脱发面积达“巴掌大小”，专家解读：斑秃受情绪影响大容易复发
+     时间:2026-04-01 15:14:50
+     链接: https://m.163.com/news/article/KPEIMJU4053469LG.html
+  58. [网易新闻] 收评：三大指数均涨超1% 全市场近4500只个股上涨
+     时间:2026-04-01 15:04:10
+     链接: https://m.163.com/news/article/KPEI32UD05198CJN.html
+  59. [网易新闻] 各位车主注意 6月1日起疲劳驾驶认定有新变化
+     时间:2026-04-01 14:38:17
+     链接: https://m.163.com/news/article/KPEGJMFJ0514R9KQ.html
+  60. [澎湃新闻] 国家文物局：组织全国国有博物馆逐件清点馆藏文物，全面核实账物相符情况
+     点赞:984 | 评论:106 | 时间:2026-04-01 11:20
+     链接: https://www.thepaper.cn/newsDetail_forward_32870188
+  61. [澎湃新闻] 李荣浩喊话单依纯强行侵权背后的版权乱象，律师称“行业长期存在侥幸习惯”
+     点赞:379 | 评论:62 | 时间:2026-04-01 19:10
+     链接: https://www.thepaper.cn/newsDetail_forward_32871160
+  62. [澎湃新闻] 马上测｜“能量锅”能降农残、改变物质电子排位？物理学专家都看不下去了
+     点赞:122 | 评论:62 | 时间:2026-04-01 12:07
+     链接: https://www.thepaper.cn/newsDetail_forward_32869692
+  63. [澎湃新闻] 优思益回应“海外地址竟是汽修厂”：办公地址正处于变更阶段
+     点赞:76 | 评论:37 | 时间:2026-04-01 20:40
+     链接: https://www.thepaper.cn/newsDetail_forward_32872445
+
+──────────────────────────────────────────────────────────────────────
+  #2  [国内时政] 外交部/映照/中国式  (7 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 映照中国式现代化的亮丽底色
+     热度:7904234
+     链接: https://www.baidu.com/s?wd=%E6%98%A0%E7%85%A7%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E4%BA%AE%E4%B8%BD%E5%BA%95%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news
+     3月30日上午，习近平总书记在参加首都义务植树活动时指出，党的十八大以来，我国森林面积和蓄积量持续“双增长”，荒漠化和沙...查看更多>
+  2. [百度热搜] 多部门开展中央储备冻猪肉收储
+     热度:4845906
+     链接: https://www.baidu.com/s?wd=%E5%A4%9A%E9%83%A8%E9%97%A8%E5%BC%80%E5%B1%95%E4%B8%AD%E5%A4%AE%E5%82%A8%E5%A4%87%E5%86%BB%E7%8C%AA%E8%82%89%E6%94%B6%E5%82%A8&sa=fyb_news&rsv_dl=fyb_news
+     为维护猪肉市场平稳运行，更好发挥中央储备调节作用，近期商务部、国家发展改革委、财政部正在开展中央储备冻猪肉收储工作。下一...查看更多>
+  3. [百度热搜] 杨小伟被公诉
+     热度:4663314
+     链接: https://www.baidu.com/s?wd=%E6%9D%A8%E5%B0%8F%E4%BC%9F%E8%A2%AB%E5%85%AC%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news
+     近日，十四届全国政协教科卫体委员会原副主任杨小伟涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。查看更多>
+  4. [百度热搜] 大雾+沙尘暴+暴雨+大风4预警齐发
+     热度:4096388
+     链接: https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%BE%2B%E6%B2%99%E5%B0%98%E6%9A%B4%2B%E6%9A%B4%E9%9B%A8%2B%E5%A4%A7%E9%A3%8E4%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news
+     4月2日6时，中央气象台发布大雾黄色预警，沙尘暴、暴雨、大风蓝色预警，请对应地区民众做好防护。查看更多>
+  5. [知乎热榜] 外交部回应「美国颁发在委投资矿产通用许可证将中俄排除在外」，称坚决反对，如何看待美方此举？
+     热度:215 万热度
+     链接: https://www.zhihu.com/question/2022701322135171727
+     4 月 1 日，外交部发言人毛宁主持例行记者会。 北京青年报记者提问，据报道，近日，美国财政部颁发「通用许可证」，授权同意在委内瑞拉矿产领域签订投资和运营合同。...
+  6. [网易新闻] 日方打着“防卫反击”幌子部署进攻性武器 外交部：这一动向十分危险
+     时间:2026-04-01 15:37:09
+     链接: https://m.163.com/news/article/KPEJVFMH053469LG.html
+  7. [网易新闻] 韩国放宽中国公民多次往返签证申请条件，外交部：有利两国民众增进了解和交流
+     时间:2026-04-01 15:34:26
+     链接: https://m.163.com/news/article/KPEJQFHT0514R9P4.html
+
+──────────────────────────────────────────────────────────────────────
+  #3  [其他] 张雪/机车/夺冠  (7 条, 4 个平台) ****
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 浙江宣传：“一个子儿都没有”也是有
+     热度:7809412
+     链接: https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%EF%BC%9A%E2%80%9C%E4%B8%80%E4%B8%AA%E5%AD%90%E5%84%BF%E9%83%BD%E6%B2%A1%E6%9C%89%E2%80%9D%E4%B9%9F%E6%98%AF%E6%9C%89&sa=fyb_news&rsv_dl=fyb_news
+     3月30日，重庆张雪机车创始人张雪在采访中称创业期间重庆政府“一个子儿都没有”支持，引发对营商环境的误读。浙江宣传发文澄...查看更多>
+  2. [百度热搜] 张雪机车夺冠带火浙江国资神级操作
+     热度:6563473
+     链接: https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%86%A0%E5%B8%A6%E7%81%AB%E6%B5%99%E6%B1%9F%E5%9B%BD%E8%B5%84%E7%A5%9E%E7%BA%A7%E6%93%8D%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news
+     2026年1月，具有浙江省国资背景的‌浙江浙创投资管理有限公司‌领投了张雪机车的A轮融资。两个月后，张雪机车便站上了世界...查看更多>
+  3. [微博热搜] 张雪机车夺冠含金量
+     热度:223111
+     链接: https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%86%A0%E5%90%AB%E9%87%91%E9%87%8F%23
+     张雪机车夺冠含金量
+  4. [微博热搜] 张雪机车比赛中换轮胎一幕
+     热度:85528
+     链接: https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%AF%94%E8%B5%9B%E4%B8%AD%E6%8D%A2%E8%BD%AE%E8%83%8E%E4%B8%80%E5%B9%95%23
+     张雪机车比赛中换轮胎一幕
+  5. [今日头条] 公安部发声力挺张雪机车新手禁令
+     热度:6162763
+     链接: https://www.toutiao.com/trending/7623027955316785194/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623027955316785194%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%85%AC%E5%AE%89%E9%83%A8%E5%8F%91%E5%A3%B0%E5%8A%9B%E6%8C%BA%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%96%B0%E6%89%8B%E7%A6%81%E4%BB%A4%22%7D&rank=&style_id=40132&topic_id=7623027955316785194
+  6. [今日头条] 张雪机车这场胜利最大的意义是什么
+     热度:251207
+     链接: https://www.toutiao.com/trending/7623949993031778345/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623949993031778345%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%BF%99%E5%9C%BA%E8%83%9C%E5%88%A9%E6%9C%80%E5%A4%A7%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7623949993031778345
+  7. [网易新闻] 张雪夺冠机车上的6个字，让这个村里的几十吨红糖卖没了！
+     时间:2026-04-01 12:57:09
+     链接: https://m.163.com/news/article/KPEAQFVC0514D3UH.html
+
+──────────────────────────────────────────────────────────────────────
+  #4  [社会事件] 遗产/勾结/男团  (6 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 勾结男团司机卖艺人隐私 3人被抓
+     热度:7332068
+     链接: https://www.baidu.com/s?wd=%E5%8B%BE%E7%BB%93%E7%94%B7%E5%9B%A2%E5%8F%B8%E6%9C%BA%E5%8D%96%E8%89%BA%E4%BA%BA%E9%9A%90%E7%A7%81+3%E4%BA%BA%E8%A2%AB%E6%8A%93&sa=fyb_news&rsv_dl=fyb_news
+     近日，上海浦东警方成功破获了一起侵犯公民信息案件，某艺人团队的专职司机因对外兜售艺人隐私信息，3人被警方依法刑事拘留。查看更多>
+  2. [百度热搜] 男子利用AI编造谣言获刑6个月
+     热度:6851185
+     链接: https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88&sa=fyb_news&rsv_dl=fyb_news
+     阳某为博关注，使用AI造谣“化工厂重大事故”“持刀抢劫珠宝店”等虚假视频，引发恐慌，被法院依法判处有期徒刑六个月。查看更多>
+  3. [百度热搜] 人贩子拐卖十余名儿童已被执行死刑
+     热度:5501988
+     链接: https://www.baidu.com/s?wd=%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E5%8D%81%E4%BD%99%E5%90%8D%E5%84%BF%E7%AB%A5%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news&rsv_dl=fyb_news
+     2026年4月2日，最高人民法院通报一起拐卖儿童犯罪典型案例，王某文因2001年至2010年间在湖南、湖北、四川等地偷盗...查看更多>
+  4. [百度热搜] 山西一煤业公司发生冒顶事故4人遇难
+     热度:4351751
+     链接: https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E7%85%A4%E4%B8%9A%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E5%86%92%E9%A1%B6%E4%BA%8B%E6%95%854%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news
+     记者从山西省吕梁市兴县有关部门获悉，4月1日21时15分，中煤关家崖煤业有限公司发生一起冒顶事故，有4人被困。2日2时4...查看更多>
+  5. [知乎热榜] 53 岁独身女士过世留下约六百万遗产，法院宣判指定民政局为遗产管理人，如何理解？遗产可能会怎样处理？
+     热度:88 万热度
+     链接: https://www.zhihu.com/question/2022434018868688139
+     今天下午，备受社会关注的「徐汇 53 岁邓女士」指定遗产管理人案在华泾镇巡回法庭开庭。 徐汇区人民法院当庭作出宣判：指定徐汇区民政局为遗产管理人。 目前，作为指...
+  6. [知乎热榜] 起什么样的名字能免疫死亡笔记?
+     热度:76 万热度
+     链接: https://www.zhihu.com/question/656281818
+     最近回看《死亡笔记》，突然产生了一个有趣的想法，如果可以任意取真名或者假名，可不可以让自己的名字不会被写死? 我的头脑风暴结果如下: 1. 我的名字是一条无限长...
+
+──────────────────────────────────────────────────────────────────────
+  #5  [社会万象] 妈妈/男子/小伙  (6 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 小伙赛前订张雪机车 提车乐开花
+     热度:7039911
+     链接: https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%B5%9B%E5%89%8D%E8%AE%A2%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6+%E6%8F%90%E8%BD%A6%E4%B9%90%E5%BC%80%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news
+     一名年轻男子在WSBK赛事前订购张雪500M机车并于4月1日提车，表示首次购车体验满意。店员介绍现在订单量飙升排期较长。查看更多>
+  2. [百度热搜] 弟弟控诉妈妈区别对待 哥哥回复获赞
+     热度:4934438
+     链接: https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E6%8E%A7%E8%AF%89%E5%A6%88%E5%A6%88%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85+%E5%93%A5%E5%93%A5%E5%9B%9E%E5%A4%8D%E8%8E%B7%E8%B5%9E&sa=fyb_news&rsv_dl=fyb_news
+     3月20日，浙江一弟弟因认为母亲偏心向哥哥抱怨，被哥哥以“态度决定待遇”的逻辑说服。哥哥指出弟弟作业效率低源于分心而非能...查看更多>
+  3. [百度热搜] 女生将80种不同口味馒头卖成爆款
+     热度:3909518
+     链接: https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%B0%8680%E7%A7%8D%E4%B8%8D%E5%90%8C%E5%8F%A3%E5%91%B3%E9%A6%92%E5%A4%B4%E5%8D%96%E6%88%90%E7%88%86%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news
+     近日，一家售卖80种不同口味馒头的小店在线上团购群里走红。该店由28岁的聂女士和妹妹共同经营，她们从摆摊起步，一步步将“...查看更多>
+  4. [微博热搜] 妈妈甚至以为家里出了个学霸
+     热度:97166
+     链接: https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%9A%E8%87%B3%E4%BB%A5%E4%B8%BA%E5%AE%B6%E9%87%8C%E5%87%BA%E4%BA%86%E4%B8%AA%E5%AD%A6%E9%9C%B8%23
+     妈妈甚至以为家里出了个学霸
+  5. [今日头条] 美一男子两次试图将陌生人推下轻轨
+     热度:1519718
+     链接: https://www.toutiao.com/trending/7623712544989397019/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623712544989397019%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E4%B8%80%E7%94%B7%E5%AD%90%E4%B8%A4%E6%AC%A1%E8%AF%95%E5%9B%BE%E5%B0%86%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8E%A8%E4%B8%8B%E8%BD%BB%E8%BD%A8%22%7D&rank=&style_id=40132&topic_id=7623712544989397019
+  6. [今日头条] 男子称带外籍女友打工将其8万卖掉
+     热度:1125835
+     链接: https://www.toutiao.com/trending/7623256878806024198/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623256878806024198%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%94%B7%E5%AD%90%E7%A7%B0%E5%B8%A6%E5%A4%96%E7%B1%8D%E5%A5%B3%E5%8F%8B%E6%89%93%E5%B7%A5%E5%B0%86%E5%85%B68%E4%B8%87%E5%8D%96%E6%8E%89%22%7D&rank=&style_id=40132&topic_id=7623256878806024198
+
+──────────────────────────────────────────────────────────────────────
+  #6  [中东局势] 伊朗/以色列/导弹  (6 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 特朗普话音刚落伊朗导弹袭向以色列
+     热度:661193
+     链接: https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%9D%E9%9F%B3%E5%88%9A%E8%90%BD%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%23
+     特朗普话音刚落伊朗导弹袭向以色列
+  2. [微博热搜] 伊朗10分钟5波导弹袭击以色列
+     热度:84344
+     链接: https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%9710%E5%88%86%E9%92%9F5%E6%B3%A2%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%23
+     伊朗10分钟5波导弹袭击以色列
+  3. [知乎热榜] 特朗普自行宣称对伊朗取得「快速、决定性、压倒性胜利」，接下来几周将对伊进行更强打击，如何看待这一表态？
+     热度:126 万热度
+     链接: https://www.zhihu.com/question/2022963312019685502
+     当地时间 4 月 1 日，美国总统特朗普在演讲中表示接下来几周将对伊朗进行更强火力打击。 更多资讯请下载央视新闻客户端 当地时间 4 月 1 日，美国总统特朗普...
+  4. [今日头条] 特朗普话音刚落 伊朗导弹直扑以色列
+     热度:13715482
+     链接: https://www.toutiao.com/trending/7623977327684226579/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623977327684226579%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%9D%E9%9F%B3%E5%88%9A%E8%90%BD+%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E7%9B%B4%E6%89%91%E4%BB%A5%E8%89%B2%E5%88%97%22%7D&rank=&style_id=40132&topic_id=7623977327684226579
+  5. [今日头条] 以色列多地遭伊朗导弹袭击
+     热度:3060337
+     链接: https://www.toutiao.com/trending/7623243179278401577/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623243179278401577%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%9A%E5%9C%B0%E9%81%AD%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%22%7D&rank=&style_id=40132&topic_id=7623243179278401577
+  6. [今日头条] 伊朗称打击以色列军工企业相关设施
+     热度:2267153
+     链接: https://www.toutiao.com/trending/7623238778769883182/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623238778769883182%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E5%B7%A5%E4%BC%81%E4%B8%9A%E7%9B%B8%E5%85%B3%E8%AE%BE%E6%96%BD%22%7D&rank=&style_id=40132&topic_id=7623238778769883182
+
+──────────────────────────────────────────────────────────────────────
+  #7  [教育就业] 高校/哪些/多地  (5 条, 4 个平台) ****
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 多地中小学开启春假模式
+     热度:7618441
+     链接: https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E5%90%AF%E6%98%A5%E5%81%87%E6%A8%A1%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news
+     4月1日起，全国多地中小学生迎来春假时间。春假有哪些考虑？春假如何保障，才能既满足孩子们的期待，也接得住家长们的焦虑？让...查看更多>
+  2. [微博热搜] 赵一鸣零食店回应不给学生发薪
+     热度:140988
+     链接: https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%80%E9%B8%A3%E9%9B%B6%E9%A3%9F%E5%BA%97%E5%9B%9E%E5%BA%94%E4%B8%8D%E7%BB%99%E5%AD%A6%E7%94%9F%E5%8F%91%E8%96%AA%23
+     赵一鸣零食店回应不给学生发薪
+  3. [知乎热榜] 武汉一高校内设置 999 秒红绿灯，校方称是为了保障课间高峰期的通行安全，如何看待这一操作？是否合理？
+     热度:284 万热度
+     链接: https://www.zhihu.com/question/2021945526069773721
+     「等一个红绿灯，竟然要十多分钟？」近日，武汉市中南财经政法大学校内一处倒计时高达 749 秒的红绿灯引发网络热议。 3 月 30 日，该校保卫部交通科工作人员向...
+  4. [知乎热榜] 多所高校宣布 2026 年本科扩招，出于哪些考量？将对高考及教育格局带来哪些影响？
+     热度:57 万热度
+     链接: https://www.zhihu.com/question/2022603340073157041
+     近期多所高校公布了今年的本科招生计划，其中新型研究型大学扩大招生规模受到关注。 3 月 29 日，南方科技大学在广州召开 2026 年广东招生说明会。今年南科大...
+  5. [网易新闻] 安徽合力：副董事长薛白因到龄退休辞职
+     时间:2026-04-01 15:36:18
+     链接: https://m.163.com/news/article/KPEJTSST0534A4SC.html
+
+──────────────────────────────────────────────────────────────────────
+  #8  [健康医疗] 去世/500/多人  (5 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 他去世后500多人含泪送别
+     热度:5905167
+     链接: https://www.baidu.com/s?wd=%E4%BB%96%E5%8E%BB%E4%B8%96%E5%90%8E500%E5%A4%9A%E4%BA%BA%E5%90%AB%E6%B3%AA%E9%80%81%E5%88%AB&sa=fyb_news&rsv_dl=fyb_news
+     2月24日，黄冈市黄州区堵城镇外岭村党总支书记、村委会主任吴劲松在春节后工作例会上突发疾病去世，终年56岁。2月26日黄...查看更多>
+  2. [百度热搜] 11岁女孩被取出4.5公斤巨型恶性肿瘤
+     热度:4752781
+     链接: https://www.baidu.com/s?wd=11%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%8F%96%E5%87%BA4.5%E5%85%AC%E6%96%A4%E5%B7%A8%E5%9E%8B%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4&sa=fyb_news&rsv_dl=fyb_news
+     近日，11岁女孩在无锡市儿童医院通过手术成功切除腹腔内4.5公斤恶性巨型肿瘤，该肿瘤位于右肾下部，病理显示为非儿童常见肾...查看更多>
+  3. [百度热搜] 男子做手术被收近4000元手术刀费
+     热度:3528850
+     链接: https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%9A%E6%89%8B%E6%9C%AF%E8%A2%AB%E6%94%B6%E8%BF%914000%E5%85%83%E6%89%8B%E6%9C%AF%E5%88%80%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news
+     近日，浙江温州一位22岁的小伙做完鼻部手术，结算时突然多出一笔3927元的“卫生材料费”，一问才知道是手术刀的钱。家属不...查看更多>
+  4. [微博热搜] 4个炒菜习惯或让致癌物翻倍
+     热度:147402
+     链接: https://s.weibo.com/weibo?q=%234%E4%B8%AA%E7%82%92%E8%8F%9C%E4%B9%A0%E6%83%AF%E6%88%96%E8%AE%A9%E8%87%B4%E7%99%8C%E7%89%A9%E7%BF%BB%E5%80%8D%23
+     4个炒菜习惯或让致癌物翻倍
+  5. [今日头条] 以为少吃就能瘦？医生辟谣
+     热度:9193762
+     链接: https://www.toutiao.com/trending/7623933861659020851/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623933861659020851%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%A5%E4%B8%BA%E5%B0%91%E5%90%83%E5%B0%B1%E8%83%BD%E7%98%A6%EF%BC%9F%E5%8C%BB%E7%94%9F%E8%BE%9F%E8%B0%A3%22%7D&rank=&style_id=40132&topic_id=7623933861659020851
+
+──────────────────────────────────────────────────────────────────────
+  #9  [新能源汽车] 汽车/交付/销量  (5 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 吉利汽车(00175)3月汽车总销量为23.3万部 与去年同期持平
+     时间:2026-04-01 17:55:44
+     链接: https://m.163.com/news/article/KPERT7M105198UNI.html
+  2. [网易新闻] 极氪：3月交付29318辆，同比增长90%
+     时间:2026-04-01 16:59:06
+     链接: https://m.163.com/news/article/KPEOLGUK0511A6N9.html
+  3. [网易新闻] 极氪汽车3月交付29318辆，同环比分别增长90%、23%。
+     时间:2026-04-01 16:49:17
+     链接: https://m.163.com/news/article/KPEO3HMJ0519QIKK.html
+  4. [网易新闻] 岚图汽车3月交付新车15019辆 岚图梦想家为销量支柱车型
+     时间:2026-04-01 16:07:33
+     链接: https://m.163.com/news/article/KPELN4HC0511CPVM.html
+  5. [网易新闻] 消息称原特斯拉中国区高管孔艳双入职小米汽车
+     时间:2026-04-01 13:19:36
+     链接: https://m.163.com/news/article/KPEC3K3D0511D2LM.html
+
+──────────────────────────────────────────────────────────────────────
+  #10  [国际其他] 退出/美国/解放军报  (4 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 解放军报披露日本已具备拥核能力
+     热度:7520621
+     链接: https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A5%E6%8A%AB%E9%9C%B2%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%85%B7%E5%A4%87%E6%8B%A5%E6%A0%B8%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news
+     《解放军报》3月30日在版面“环球军情”的栏目“认知小站”中写道，日本已具备制造核武器的几乎所有物质和技术条件，能在极短...查看更多>
+  2. [百度热搜] 日自卫队官员持刀闯馆暴露危险信号
+     热度:6369855
+     链接: https://www.baidu.com/s?wd=%E6%97%A5%E8%87%AA%E5%8D%AB%E9%98%9F%E5%AE%98%E5%91%98%E6%8C%81%E5%88%80%E9%97%AF%E9%A6%86%E6%9A%B4%E9%9C%B2%E5%8D%B1%E9%99%A9%E4%BF%A1%E5%8F%B7&sa=fyb_news&rsv_dl=fyb_news
+     持刀闯入中国驻日本大使馆的自卫队官员已被日本警方逮捕。这个非法闯馆的自卫队官员现年23岁，他在家乡成长学习期间并没有极端...查看更多>
+  3. [百度热搜] 周杰伦藏了10余年的求婚画面将公开
+     热度:3797035
+     链接: https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%97%8F%E4%BA%8610%E4%BD%99%E5%B9%B4%E7%9A%84%E6%B1%82%E5%A9%9A%E7%94%BB%E9%9D%A2%E5%B0%86%E5%85%AC%E5%BC%80&sa=fyb_news&rsv_dl=fyb_news
+     4月2日，周杰伦将在新歌《I Do》MV中，首次公开2015年于英国霍华德城堡向昆凌求婚的未曝光画面，该场景包含古堡餐厅...查看更多>
+  4. [知乎热榜] 媒体称特朗普正「认真考虑」让美国退出北约，美国真的会退出吗？一旦退出，对欧洲和全球格局意味着什么？
+     热度:58 万热度
+     链接: https://www.zhihu.com/question/2022741814126342989
+     新华社伦敦 4 月 1 日电 英国《每日电讯报》4 月 1 日刊载的对美国总统特朗普的专访文章写道，在北约盟友拒绝帮助打击伊朗后，特朗普正「认真考虑」让美国退出...
+
+──────────────────────────────────────────────────────────────────────
+  #11  [科技互联网] 美国/载人/任务  (4 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 美国50多年来首次载人飞向月球
+     热度:7231530
+     链接: https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD50%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%BD%E4%BA%BA%E9%A3%9E%E5%90%91%E6%9C%88%E7%90%83&sa=fyb_news&rsv_dl=fyb_news
+     当地时间4月1日傍晚，美国航空航天局新一代登月火箭“太空发射系统”从佛罗里达州肯尼迪航天中心发射升空，执行“阿耳忒弥斯2...查看更多>
+  2. [百度热搜] 美国执行载人绕月任务火箭发射升空
+     热度:5811358
+     链接: https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%A7%E8%A1%8C%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news
+     当地时间4月1日傍晚，美国航空航天局新一代登月火箭“太空发射系统”从佛罗里达州肯尼迪航天中心发射升空，执行“阿耳忒弥斯2...查看更多>
+  3. [百度热搜] 美国绕月火箭宇航员一度与地面失联
+     热度:3621943
+     链接: https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BB%95%E6%9C%88%E7%81%AB%E7%AE%AD%E5%AE%87%E8%88%AA%E5%91%98%E4%B8%80%E5%BA%A6%E4%B8%8E%E5%9C%B0%E9%9D%A2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news
+     2026年4月2日，美国航空航天局（NASA）执行阿耳忒弥斯2号载人绕月任务的火箭发射升空51分钟后，宇航员因信号中断一...查看更多>
+  4. [知乎热榜] NASA 阿尔忒弥斯二号火箭发射升空，执行载人绕月飞行任务，此次任务还有哪些看点和意义？
+     热度:145 万热度
+     链接: https://www.zhihu.com/question/2021139795628302423
+     当地时间 4 月 1 日傍晚，美国航空航天局新一代登月火箭「太空发射系统」从佛罗里达州肯尼迪航天中心发射升空，执行「阿耳忒弥斯 2 号」载人绕月任务。这是美国自...
+
+──────────────────────────────────────────────────────────────────────
+  #12  [科技互联网] AI/看待/甲骨文  (4 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [知乎热榜] 如何看待甲骨文被曝凌晨 6 点突然裁员 3 万人？上季度其净利润刚暴涨 95%，为啥此时会大规模裁人？
+     热度:186 万热度
+     链接: https://www.zhihu.com/question/2022645720885327267
+     速途网 4 月 1 日讯，全球软件巨头甲骨文（Oracle）于当地时间 3 月 31 日凌晨向员工群发邮件，宣布启动新一轮大规模裁员。多名收到通知的员工在社交媒...
+  2. [知乎热榜] 有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？
+     热度:182 万热度
+     链接: https://www.zhihu.com/question/2020209448975607009
+  3. [网易新闻] 丰田铂智7跨省实测续航达成率86%，搭载华为智擎电驱
+     时间:2026-04-01 16:22:08
+     链接: https://m.163.com/news/article/KPEMHRDU0514TTKN.html
+  4. [网易新闻] OpenAI融资超1200亿美元
+     时间:2026-04-01 16:07:08
+     链接: https://m.163.com/news/article/KPELMBDI05568W0A.html
+
+──────────────────────────────────────────────────────────────────────
+  #13  [中美关系] 特朗普/美国/伊朗  (4 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] “在美出生即公民”或彻底终结
+     热度:6655141
+     链接: https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%A8%E7%BE%8E%E5%87%BA%E7%94%9F%E5%8D%B3%E5%85%AC%E6%B0%91%E2%80%9D%E6%88%96%E5%BD%BB%E5%BA%95%E7%BB%88%E7%BB%93&sa=fyb_news&rsv_dl=fyb_news
+     当地时间4月1日，美国最高法院将正式就“出生公民权”案举行口头辩论。这场世纪诉讼源自特朗普上任签署的第14160号行政令...查看更多>
+  2. [澎湃新闻] 外媒：特朗普正“认真考虑”让美国退出北约
+     点赞:364 | 评论:87 | 时间:2026-04-01 17:09
+     链接: https://www.thepaper.cn/newsDetail_forward_32871533
+  3. [澎湃新闻] 特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器
+     点赞:165 | 评论:47 | 时间:2026-04-01 14:47
+     链接: https://www.thepaper.cn/newsDetail_forward_32869629
+  4. [澎湃新闻] 美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌
+     点赞:88 | 评论:47 | 时间:2026-04-01 13:56
+     链接: https://www.thepaper.cn/newsDetail_forward_32870657
+
+──────────────────────────────────────────────────────────────────────
+  #14  [消费维权] 回应/优思益/瑞幸  (4 条, 4 个平台) ****
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 河北查处31名高收入人员
+     热度:5992309
+     链接: https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E6%9F%A5%E5%A4%8431%E5%90%8D%E9%AB%98%E6%94%B6%E5%85%A5%E4%BA%BA%E5%91%98&sa=fyb_news&rsv_dl=fyb_news
+     2025年，国家税务总局河北省税务局依法查处31名高收入、高净值人员（含网络主播）偷逃税案件，查补税款8859万元，同期...查看更多>
+  2. [微博热搜] 主播陆续回应优思益售后
+     热度:184900
+     链接: https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%99%86%E7%BB%AD%E5%9B%9E%E5%BA%94%E4%BC%98%E6%80%9D%E7%9B%8A%E5%94%AE%E5%90%8E%23
+     主播陆续回应优思益售后
+  3. [知乎热榜] 瑞幸新品喝一半发现椰肉「变紫」，仅获退款和优惠券，瑞幸回应「淡粉色」属于正常的自然现象，如何看待此事？
+     热度:92 万热度
+     链接: https://www.zhihu.com/question/2022360841962480972
+     3 月 30 日，瑞幸咖啡新品「一整颗生椰」（椰子蛋）在社交平台引发吐槽，其中「个别椰肉出现异常紫色」引发食品安全争议。 3 月 31 日，瑞幸咖啡就此向界面新...
+  4. [网易新闻] 品牌故事编的、大奖买的、网红雇的！央视曝光“澳洲优思益”
+     时间:2026-04-01 13:01:16
+     链接: https://m.163.com/news/article/KPEB216J0550B6IS.html
+
+──────────────────────────────────────────────────────────────────────
+  #15  [中东局势] 伊朗/总统/美国  (4 条, 4 个平台) ****
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 伊朗总统发表致美国人民公开信
+     热度:5604006
+     链接: https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A1%A8%E8%87%B4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%BC%80%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news
+     查看更多>
+  2. [微博热搜] 伊朗总统致美国人民公开信
+     热度:258322
+     链接: https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%87%B4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%BC%80%E4%BF%A1%23
+     伊朗总统致美国人民公开信
+  3. [今日头条] 伊朗总统发表致美国人民公开信
+     热度:5576299
+     链接: https://www.toutiao.com/trending/7623926704578399782/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623926704578399782%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A1%A8%E8%87%B4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%BC%80%E4%BF%A1%22%7D&rank=&style_id=40132&topic_id=7623926704578399782
+  4. [网易新闻] 伊朗总统和外长参加德黑兰民众集会
+     时间:2026-04-01 14:07:38
+     链接: https://m.163.com/news/article/KPEERHSA05198CJN.html
+
+──────────────────────────────────────────────────────────────────────
+  #16  [中东局势] 伊朗/以色列/波兰  (4 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 伊朗以色列同时大规模互袭
+     热度:100296
+     链接: https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BB%A5%E8%89%B2%E5%88%97%E5%90%8C%E6%97%B6%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%92%E8%A2%AD%23
+     伊朗以色列同时大规模互袭
+  2. [知乎热榜] 美国因防御弹药短缺，欲调用波兰「爱国者」反导系统遭拒，如何看待波兰这一表态？暴露出美方联盟哪些问题？
+     热度:71 万热度
+     链接: https://www.zhihu.com/question/2022648235337016783
+     随着中东战事延宕，美军的进攻型导弹用量出现缺口。而伊朗不断进行反击，也使得美军用于防御的弹药同样「入不敷出」。此前，美国已将部署在韩国的部分「萨德」反导系统运往...
+  3. [今日头条] 战火灼烧以色列
+     热度:7527216
+     链接: https://www.toutiao.com/trending/7623082826497327146/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623082826497327146%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%88%98%E7%81%AB%E7%81%BC%E7%83%A7%E4%BB%A5%E8%89%B2%E5%88%97%22%7D&rank=&style_id=40132&topic_id=7623082826497327146
+  4. [今日头条] 伊朗否认请求停火
+     热度:4131023
+     链接: https://www.toutiao.com/trending/7623800458217262655/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623800458217262655%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AE%A4%E8%AF%B7%E6%B1%82%E5%81%9C%E7%81%AB%22%7D&rank=&style_id=40132&topic_id=7623800458217262655
+
+──────────────────────────────────────────────────────────────────────
+  #17  [体育赛事] 澳门/世界杯/小组赛  (4 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 国乒男线对德3连败 仅2人晋级16强
+     热度:5235386
+     链接: https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E7%BA%BF%E5%AF%B9%E5%BE%B73%E8%BF%9E%E8%B4%A5+%E4%BB%852%E4%BA%BA%E6%99%8B%E7%BA%A716%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news
+     4月1日晚，2026年澳门乒乓球世界杯小组赛收官。此番出征的五名国乒男单选手经过小组赛角逐，梁靖崑、陈垣宇、周启豪三人均...查看更多>
+  2. [知乎热榜] 2026 年澳门乒乓球世界杯男单小组赛，温瑞博 3：0 力克西蒙高茨晋级，怎么评价国乒小将温瑞博本场表现？
+     热度:86 万热度
+     链接: https://www.zhihu.com/question/2022678377576800835
+  3. [知乎热榜] 2026 澳门世界杯，梁靖崑 2-3 不敌德国老将奥恰洛夫，止步小组赛，如何评价两人比赛的发挥？
+     热度:58 万热度
+     链接: https://www.zhihu.com/question/2022800136879838030
+     梁靖崑 2-3 迪米特里·奥恰洛夫【 11-8，11-6，6-11，9-11，10-12 】 2026 年澳门乒乓球世界杯男单小组赛第 9 组 奥恰两战全胜出线...
+  4. [今日头条] 澳门乒乓球世界杯小组赛收官
+     热度:205671
+     链接: https://www.toutiao.com/trending/7623620795021606931/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623620795021606931%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%BE%B3%E9%97%A8%E4%B9%92%E4%B9%93%E7%90%83%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E6%94%B6%E5%AE%98%22%7D&rank=&style_id=40132&topic_id=7623620795021606931
+
+──────────────────────────────────────────────────────────────────────
+  #18  [财经金融] 中国/鱼子酱/全球  (4 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [知乎热榜] 中国鱼子酱占全球产量 60%，松露、蓝莓等也逐渐实现国产化，中国为啥总能把「餐桌贵族」打成「土特产」？
+     热度:243 万热度
+     链接: https://www.zhihu.com/question/2022601317479118629
+     2025 年 4 月 14 日，《三联生活周刊》的封面文章是一篇叫作《中国新特产》的文章。封面上，一位水产养殖户半个身子泡在鱼塘里，怀里抱着一条硕大的鲟鱼。与如...
+  2. [知乎热榜] 和孤独症孩子相处，是一种怎样的体验？有哪些细节值得被更多人知道？
+     热度:74 万热度
+     链接: https://www.zhihu.com/question/2021874485180023800
+     ✨ 4 月 2 日世界孤独症日，我们想听听你和「星朋友」的故事 ✨ 比如和孤独症孩子相处的一个小瞬间、一次小感悟，或是你知道的相处小技巧、专业小知识，都可以在这...
+  3. [今日头条] 多家银行下调部分存款挂牌利率
+     热度:24991238
+     链接: https://www.toutiao.com/trending/7623785096319746084/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623785096319746084%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E9%83%A8%E5%88%86%E5%AD%98%E6%AC%BE%E6%8C%82%E7%89%8C%E5%88%A9%E7%8E%87%22%7D&rank=&style_id=40132&topic_id=7623785096319746084
+  4. [网易新闻] 2月私募资管产品备案规模同比增加超70%
+     时间:2026-04-01 16:23:04
+     链接: https://m.163.com/news/article/KPEMJHDT05346RC6.html
+
+──────────────────────────────────────────────────────────────────────
+  #19  [国内时政] 伊朗/最高/领袖  (3 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 伊朗：新最高领袖因战争推迟公开露面
+     热度:6091581
+     链接: https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%96%B0%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%9B%A0%E6%88%98%E4%BA%89%E6%8E%A8%E8%BF%9F%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news
+     据伊朗方面4月1日消息，伊朗外交部发言人巴加埃在接受媒体采访时说，伊朗最高领袖穆杰塔巴·哈梅内伊身体健康，但因战争推迟公...查看更多>
+  2. [百度热搜] 伊朗最高领袖外交政策顾问遇袭重伤
+     热度:5328510
+     链接: https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E9%A1%BE%E9%97%AE%E9%81%87%E8%A2%AD%E9%87%8D%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news
+     当地时间4月1日，总台记者获悉，据伊朗方面消息，伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐当天遭遇美国和以色...查看更多>
+  3. [知乎热榜] 美以袭击伊朗进入第 34 天，当前局势如何？哪些信息值得关注？
+     热度:216 万热度
+     链接: https://www.zhihu.com/question/2022805425607767116
+     美以伊战事最新情况 伊朗外交部：最高领袖身体健康但因战争推迟公开露面 伊朗开展「真实承诺 -4」第 89 波打击行动 据伊朗方面 4 月 1 日消息，伊朗外交部...
+
+──────────────────────────────────────────────────────────────────────
+  #20  [其他] 女儿/拼豆/收入  (3 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 司机车上卖女儿拼豆 收入反超车费
+     热度:7135732
+     链接: https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%BD%A6%E4%B8%8A%E5%8D%96%E5%A5%B3%E5%84%BF%E6%8B%BC%E8%B1%86+%E6%94%B6%E5%85%A5%E5%8F%8D%E8%B6%85%E8%BD%A6%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news
+     哈尔滨一位出租车司机在车内售卖女儿纯手工制作的拼豆，其收入多次反超车费。父亲介绍拼豆为女儿亲手制作，并将收入全部转交女儿...查看更多>
+  2. [微博热搜] 老爸收入不敌女儿卖拼豆直呼崩溃
+     热度:148954
+     链接: https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B8%E6%94%B6%E5%85%A5%E4%B8%8D%E6%95%8C%E5%A5%B3%E5%84%BF%E5%8D%96%E6%8B%BC%E8%B1%86%E7%9B%B4%E5%91%BC%E5%B4%A9%E6%BA%83%23
+     老爸收入不敌女儿卖拼豆直呼崩溃
+  3. [今日头条] 司机车上卖女儿拼豆 收入反超车费
+     热度:2505592
+     链接: https://www.toutiao.com/trending/7622998362195345444/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622998362195345444%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B8%E6%9C%BA%E8%BD%A6%E4%B8%8A%E5%8D%96%E5%A5%B3%E5%84%BF%E6%8B%BC%E8%B1%86+%E6%94%B6%E5%85%A5%E5%8F%8D%E8%B6%85%E8%BD%A6%E8%B4%B9%22%7D&rank=&style_id=40132&topic_id=7622998362195345444
+
+──────────────────────────────────────────────────────────────────────
+  #21  [其他] 张雪想/光标/豪车  (3 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 张雪想卖陈光标赠送豪车给嫣然捐款
+     热度:6274163
+     链接: https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%83%B3%E5%8D%96%E9%99%88%E5%85%89%E6%A0%87%E8%B5%A0%E9%80%81%E8%B1%AA%E8%BD%A6%E7%BB%99%E5%AB%A3%E7%84%B6%E6%8D%90%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news
+     4月1日，陈光标宣布将价值1300万的劳斯莱斯赠予张雪机车创始人张雪。随后张雪在社交平台回应，同意收下车辆，同时表示将招...查看更多>
+  2. [微博热搜] 张雪想卖陈光标赠送豪车给嫣然捐款
+     热度:803750
+     链接: https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%83%B3%E5%8D%96%E9%99%88%E5%85%89%E6%A0%87%E8%B5%A0%E9%80%81%E8%B1%AA%E8%BD%A6%E7%BB%99%E5%AB%A3%E7%84%B6%E6%8D%90%E6%AC%BE%23
+     张雪想卖陈光标赠送豪车给嫣然捐款
+  3. [今日头条] 张雪想卖陈光标赠的豪车给嫣然捐款
+     热度:8318860
+     链接: https://www.toutiao.com/trending/7623982123552411145/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623982123552411145%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E9%9B%AA%E6%83%B3%E5%8D%96%E9%99%88%E5%85%89%E6%A0%87%E8%B5%A0%E7%9A%84%E8%B1%AA%E8%BD%A6%E7%BB%99%E5%AB%A3%E7%84%B6%E6%8D%90%E6%AC%BE%22%7D&rank=&style_id=40132&topic_id=7623982123552411145
+
+──────────────────────────────────────────────────────────────────────
+  #22  [其他] 夫妻/亲生子女/获刑  (3 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 夫妻卖5名亲生子女获刑
+     热度:3991580
+     链接: https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%8D%965%E5%90%8D%E4%BA%B2%E7%94%9F%E5%AD%90%E5%A5%B3%E8%8E%B7%E5%88%91&sa=fyb_news&rsv_dl=fyb_news
+     查看更多>
+  2. [微博热搜] 夫妻出卖5名亲生子女被判刑
+     热度:147966
+     链接: https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%87%BA%E5%8D%965%E5%90%8D%E4%BA%B2%E7%94%9F%E5%AD%90%E5%A5%B3%E8%A2%AB%E5%88%A4%E5%88%91%23
+     夫妻出卖5名亲生子女被判刑
+  3. [今日头条] 夫妻先后出卖5名亲生子女双双获刑
+     热度:834039
+     链接: https://www.toutiao.com/trending/7623976202130735110/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623976202130735110%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AB%E5%A6%BB%E5%85%88%E5%90%8E%E5%87%BA%E5%8D%965%E5%90%8D%E4%BA%B2%E7%94%9F%E5%AD%90%E5%A5%B3%E5%8F%8C%E5%8F%8C%E8%8E%B7%E5%88%91%22%7D&rank=&style_id=40132&topic_id=7623976202130735110
+
+──────────────────────────────────────────────────────────────────────
+  #23  [其他] 张凌赫/严屹/鼓励  (3 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 严屹宽鼓励张凌赫接受质疑
+     热度:3303636
+     链接: https://www.baidu.com/s?wd=%E4%B8%A5%E5%B1%B9%E5%AE%BD%E9%BC%93%E5%8A%B1%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8E%A5%E5%8F%97%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news
+     3月30日，严屹宽在播客访谈中回应《逐玉》“粉底液将军”妆容争议，鼓励搭档张凌赫接受质疑，指出“有质疑说明受关注”，建议...查看更多>
+  2. [微博热搜] 张凌赫新华社讲述星星的孩子
+     热度:109622
+     链接: https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B2%E8%BF%B0%E6%98%9F%E6%98%9F%E7%9A%84%E5%AD%A9%E5%AD%90%23
+     张凌赫新华社讲述星星的孩子
+  3. [今日头条] 严屹宽鼓励张凌赫接受质疑
+     热度:186099
+     链接: https://www.toutiao.com/trending/7623526802807816228/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623526802807816228%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%A5%E5%B1%B9%E5%AE%BD%E9%BC%93%E5%8A%B1%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8E%A5%E5%8F%97%E8%B4%A8%E7%96%91%22%7D&rank=&style_id=40132&topic_id=7623526802807816228
+
+──────────────────────────────────────────────────────────────────────
+  #24  [其他] 有线/耳机/淘汰  (3 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 有线耳机被淘汰10年翻红 销量暴涨
+     热度:141434
+     链接: https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E8%A2%AB%E6%B7%98%E6%B1%B010%E5%B9%B4%E7%BF%BB%E7%BA%A2%20%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8%23
+     有线耳机被淘汰10年翻红 销量暴涨
+  2. [今日头条] 有线耳机被淘汰10年翻红 销量暴涨
+     热度:16752128
+     链接: https://www.toutiao.com/trending/7622897692520726582/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622897692520726582%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E8%A2%AB%E6%B7%98%E6%B1%B010%E5%B9%B4%E7%BF%BB%E7%BA%A2+%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8%22%7D&rank=&style_id=40132&topic_id=7622897692520726582
+  3. [今日头条] 有线耳机穿搭火了
+     热度:1244240
+     链接: https://www.toutiao.com/trending/7623607631135834166/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623607631135834166%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E7%A9%BF%E6%90%AD%E7%81%AB%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7623607631135834166
+
+──────────────────────────────────────────────────────────────────────
+  #25  [其他] 中标/项目/子公司  (3 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 浙江建投最新公告：子公司中标14亿港元项目
+     时间:2026-04-01 18:07:04
+     链接: https://m.163.com/news/article/KPESHV7Q051984TV.html
+  2. [网易新闻] 特锐德：预中标预制舱变电站项目
+     时间:2026-04-01 17:58:04
+     链接: https://m.163.com/news/article/KPES1FE90534A4SC.html
+  3. [网易新闻] 特锐德(300001.SZ)及子公司预中标约2.07亿元预制舱变电站项目
+     时间:2026-04-01 17:55:44
+     链接: https://m.163.com/news/article/KPERT78P05198UNI.html
+
+──────────────────────────────────────────────────────────────────────
+  #26  [体育赛事] 世界杯/全红婵/落泪  (3 条, 3 个平台) ***
+──────────────────────────────────────────────────────────────────────
+  1. [知乎热榜] 全红婵落泪恳求「不要再骂我了」，如何看待「捧杀」与「棒杀」交替出现的饭圈怪圈？我们该如何理性追星？
+     热度:621 万热度
+     链接: https://www.zhihu.com/question/2022619683019335525
+     全红婵落泪引关注，饭圈不能成为捧杀棒杀的怪圈 这两天，刚度过 19 岁生日的跳水运动员、奥运冠军全红婵，因为一个采访广受关注。 全红婵（视觉中国 资料图） 坦言...
+  2. [今日头条] 你认为本届世界杯最大黑马是谁
+     热度:11229287
+     链接: https://www.toutiao.com/trending/7623783605831139354/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623783605831139354%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%A0%E8%AE%A4%E4%B8%BA%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E9%BB%91%E9%A9%AC%E6%98%AF%E8%B0%81%22%7D&rank=&style_id=40132&topic_id=7623783605831139354
+  3. [澎湃新闻] 连续三届无缘世界杯，意大利的结局早已注定
+     点赞:200 | 评论:91 | 时间:2026-04-01 12:59
+     链接: https://www.thepaper.cn/newsDetail_forward_32870371
+
+──────────────────────────────────────────────────────────────────────
+  #27  [娱乐文化] 认为/张雪/机车  (3 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [知乎热榜] 你认为「张雪机车」的故事适不适合拍成电影？哪些演员合适？
+     热度:97 万热度
+     链接: https://www.zhihu.com/question/2022667730705294890
+     如题：
+  2. [知乎热榜] 电影《万箭穿心》李宝莉如果一开始嫁给建建这样的人（强壮、有担当、混不吝），她会幸福吗?
+     热度:82 万热度
+     链接: https://www.zhihu.com/question/453089875
+     李宝莉如果一开始嫁给类似建建这样的人（强壮、有担当、混不吝），她的生活会是什么样
+  3. [知乎热榜] 为什么很多游戏里的「二周目」，只是让玩家带着装备重新打一遍，而不是让 NPC 知道「你上周目干过什么」？
+     热度:64 万热度
+     链接: https://www.zhihu.com/question/2021280682983309943
+     我们默认「二周目 = 数值继承」，但为什么不能是「剧情继承」？
+
+──────────────────────────────────────────────────────────────────────
+  #28  [国内时政] 汇算/7000/纳税人  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 中国发布丨今年个税汇算一个月以来 超7000万纳税人依法申请退税
+     时间:2026-04-01 17:32:15
+     链接: https://m.163.com/news/article/KPEQI7N30514DG98.html
+  2. [网易新闻] 个税汇算满月，超7000万纳税人已依法申请退税
+     时间:2026-04-01 15:36:07
+     链接: https://m.163.com/news/article/KPEJTJ830512D3VJ.html
+
+──────────────────────────────────────────────────────────────────────
+  #29  [其他] 保时捷/销售/再夺  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 青岛保时捷女销售再夺第一季度销冠
+     热度:7714101
+     链接: https://www.baidu.com/s?wd=%E9%9D%92%E5%B2%9B%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%94%AE%E5%86%8D%E5%A4%BA%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%BA%A6%E9%94%80%E5%86%A0&sa=fyb_news&rsv_dl=fyb_news
+     青岛保时捷女销售再夺2026年第一季度销冠。4月1日，青岛保时捷销售牟倩文molly发文：“3月上旬几乎不卖车，下旬才开...查看更多>
+  2. [微博热搜] 保时捷女销售再夺一季度销冠
+     热度:213068
+     链接: https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%94%AE%E5%86%8D%E5%A4%BA%E4%B8%80%E5%AD%A3%E5%BA%A6%E9%94%80%E5%86%A0%23
+     保时捷女销售再夺一季度销冠
+
+──────────────────────────────────────────────────────────────────────
+  #30  [其他] 商标/今麦郎/董事长  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 今麦郎董事长回应“手打”是商标
+     热度:6178699
+     链接: https://www.baidu.com/s?wd=%E4%BB%8A%E9%BA%A6%E9%83%8E%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94%E2%80%9C%E6%89%8B%E6%89%93%E2%80%9D%E6%98%AF%E5%95%86%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news
+     近日，今麦郎“手打挂面”，“手打”二字是商标一事，引争议。4月1日，今麦郎集团董事长范现国回应称，“手打”商标是2006...查看更多>
+  2. [网易新闻] 斑马智行申请driveclaw商标
+     时间:2026-04-01 15:59:06
+     链接: https://m.163.com/news/article/KPEL7KJ30534A4SC.html
+
+──────────────────────────────────────────────────────────────────────
+  #31  [其他] 三亚/海滩/露出  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 三亚一海滩露出尖锐钢筋 文旅局回应
+     热度:5032356
+     链接: https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E4%B8%80%E6%B5%B7%E6%BB%A9%E9%9C%B2%E5%87%BA%E5%B0%96%E9%94%90%E9%92%A2%E7%AD%8B+%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news
+     3月31日，有游客发视频称：在海南三亚崖州区镇海村的海滩游玩时，发现露出的尖锐钢筋存在安全隐患。因钢筋埋得结实该游客未能...查看更多>
+  2. [今日头条] 三亚一海滩露出锋利钢筋
+     热度:3737905
+     链接: https://www.toutiao.com/trending/7623542435922132998/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623542435922132998%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%89%E4%BA%9A%E4%B8%80%E6%B5%B7%E6%BB%A9%E9%9C%B2%E5%87%BA%E9%94%8B%E5%88%A9%E9%92%A2%E7%AD%8B%22%7D&rank=&style_id=40132&topic_id=7623542435922132998
+
+──────────────────────────────────────────────────────────────────────
+  #32  [其他] 肝癌/广场/肿瘤  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 肝癌老人跳广场舞过猛致肿瘤破裂
+     热度:4565727
+     链接: https://www.baidu.com/s?wd=%E8%82%9D%E7%99%8C%E8%80%81%E4%BA%BA%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E%E8%BF%87%E7%8C%9B%E8%87%B4%E8%82%BF%E7%98%A4%E7%A0%B4%E8%A3%82&sa=fyb_news&rsv_dl=fyb_news
+     近日，年近七旬的李奶奶（化名）因跳广场舞动作幅度过大，导致肝脏肿瘤破裂出血，经肝动脉化疗栓塞术（TACE）后脱险。患者有...查看更多>
+  2. [网易新闻] 七旬患肝癌奶奶跳广场舞太激烈导致肿瘤破裂，专家提醒：每次跳30-60分钟为佳
+     时间:2026-04-01 15:03:17
+     链接: https://m.163.com/news/article/KPEI1F5K0534P59R.html
+
+──────────────────────────────────────────────────────────────────────
+  #33  [其他] 背后/百年/建筑  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 百年建筑“吴佩孚公馆”转卖背后
+     热度:3688467
+     链接: https://www.baidu.com/s?wd=%E7%99%BE%E5%B9%B4%E5%BB%BA%E7%AD%91%E2%80%9C%E5%90%B4%E4%BD%A9%E5%AD%9A%E5%85%AC%E9%A6%86%E2%80%9D%E8%BD%AC%E5%8D%96%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news
+     查看更多>
+  2. [今日头条] 张国荣与张雪同时刷屏背后
+     热度:374758
+     链接: https://www.toutiao.com/trending/7623813687014359103/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623813687014359103%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E5%9B%BD%E8%8D%A3%E4%B8%8E%E5%BC%A0%E9%9B%AA%E5%90%8C%E6%97%B6%E5%88%B7%E5%B1%8F%E8%83%8C%E5%90%8E%22%7D&rank=&style_id=40132&topic_id=7623813687014359103
+
+──────────────────────────────────────────────────────────────────────
+  #34  [其他] 李若彤/致歉/章小蕙  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 章小蕙李若彤关于优思益致歉
+     热度:3391492
+     链接: https://www.baidu.com/s?wd=%E7%AB%A0%E5%B0%8F%E8%95%99%E6%9D%8E%E8%8B%A5%E5%BD%A4%E5%85%B3%E4%BA%8E%E4%BC%98%E6%80%9D%E7%9B%8A%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news
+     查看更多>
+  2. [微博热搜] 李若彤发布致歉声明
+     热度:138755
+     链接: https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8B%A5%E5%BD%A4%E5%8F%91%E5%B8%83%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23
+     李若彤发布致歉声明
+
+──────────────────────────────────────────────────────────────────────
+  #35  [其他] 动物/何穗/疯狂  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 何穗带娃看小动物
+     热度:260001
+     链接: https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A9%97%E5%B8%A6%E5%A8%83%E7%9C%8B%E5%B0%8F%E5%8A%A8%E7%89%A9%23
+     何穗带娃看小动物
+  2. [微博热搜] 疯狂动物城2预约人数近千万
+     热度:182242
+     链接: https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%A2%84%E7%BA%A6%E4%BA%BA%E6%95%B0%E8%BF%91%E5%8D%83%E4%B8%87%23
+     疯狂动物城2预约人数近千万
+
+──────────────────────────────────────────────────────────────────────
+  #36  [其他] 回复/收到/去世  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 收到了去世好友的微信回复
+     热度:258793
+     链接: https://s.weibo.com/weibo?q=%23%E6%94%B6%E5%88%B0%E4%BA%86%E5%8E%BB%E4%B8%96%E5%A5%BD%E5%8F%8B%E7%9A%84%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%A4%8D%23
+     收到了去世好友的微信回复
+  2. [微博热搜] 武大靖回复张雪
+     热度:121894
+     链接: https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%9B%9E%E5%A4%8D%E5%BC%A0%E9%9B%AA%23
+     武大靖回复张雪
+
+──────────────────────────────────────────────────────────────────────
+  #37  [其他] 美国/TikTok/禁令  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 美国TikTok禁令演不下去了吗
+     热度:203011
+     链接: https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDTikTok%E7%A6%81%E4%BB%A4%E6%BC%94%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%E5%90%97%23
+     美国TikTok禁令演不下去了吗
+  2. [今日头条] 美国执行载人绕月任务火箭发射升空
+     热度:6810906
+     链接: https://www.toutiao.com/trending/7623332124256829494/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623332124256829494%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E6%89%A7%E8%A1%8C%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA%22%7D&rank=&style_id=40132&topic_id=7623332124256829494
+
+──────────────────────────────────────────────────────────────────────
+  #38  [其他] 乘风/2026/考人  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 乘风2026乘风送考人
+     热度:183628
+     链接: https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2026%E4%B9%98%E9%A3%8E%E9%80%81%E8%80%83%E4%BA%BA%23
+     乘风2026乘风送考人
+  2. [微博热搜] 乘风2026
+     热度:147250
+     链接: https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2026%23
+     乘风2026
+
+──────────────────────────────────────────────────────────────────────
+  #39  [其他] 50/多年/月球  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 美国50多年来首次载人飞向月球
+     热度:150484
+     链接: https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD50%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%BD%E4%BA%BA%E9%A3%9E%E5%90%91%E6%9C%88%E7%90%83%23
+     美国50多年来首次载人飞向月球
+  2. [今日头条] 人类50多年后重返月球轨道
+     热度:2051405
+     链接: https://www.toutiao.com/trending/7623465038518730758/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623465038518730758%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E7%B1%BB50%E5%A4%9A%E5%B9%B4%E5%90%8E%E9%87%8D%E8%BF%94%E6%9C%88%E7%90%83%E8%BD%A8%E9%81%93%22%7D&rank=&style_id=40132&topic_id=7623465038518730758
+
+──────────────────────────────────────────────────────────────────────
+  #40  [其他] 影响/以为/网友  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 当我以为熬到5点没有影响
+     热度:106567
+     链接: https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E4%BB%A5%E4%B8%BA%E7%86%AC%E5%88%B05%E7%82%B9%E6%B2%A1%E6%9C%89%E5%BD%B1%E5%93%8D%23
+     当我以为熬到5点没有影响
+  2. [知乎热榜] 网友曝某大厂绩效开始和 Token 消耗挂钩，或将影响转正、晋升等，是真的吗？这种考核方式合理吗？
+     热度:374 万热度
+     链接: https://www.zhihu.com/question/2022684150977623815
+     [图片]
+
+──────────────────────────────────────────────────────────────────────
+  #41  [其他] 音乐/业内人士/授权  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [今日头条] 业内人士：音乐授权不是“一劳永逸”
+     热度:1375098
+     链接: https://www.toutiao.com/trending/7623244881653383174/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623244881653383174%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%EF%BC%9A%E9%9F%B3%E4%B9%90%E6%8E%88%E6%9D%83%E4%B8%8D%E6%98%AF%E2%80%9C%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7623244881653383174
+  2. [澎湃新闻] 太原杏花岭区通报“暴走团”凌晨放音乐扰民：即刻暂停活动
+     点赞:176 | 评论:150 | 时间:2026-04-01 16:50
+     链接: https://www.thepaper.cn/newsDetail_forward_32871270
+
+──────────────────────────────────────────────────────────────────────
+  #42  [其他] 国科/军工/目前  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] V观财报丨国科军工：目前与快舟系列火箭暂无业务合作
+     时间:2026-04-01 18:06:19
+     链接: https://m.163.com/news/article/KPESGJUA0519C6T9.html
+  2. [网易新闻] 国科军工：公司目前与快舟系列火箭暂无业务合作
+     时间:2026-04-01 15:57:31
+     链接: https://m.163.com/news/article/KPEL4ORU0519QIKK.html
+
+──────────────────────────────────────────────────────────────────────
+  #43  [其他] 同比/增长/宁波港  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 宁波港：2025年度净利润51.68亿元 同比增长5.63%
+     时间:2026-04-01 18:05:05
+     链接: https://m.163.com/news/article/KPESEAS005198CJN.html
+  2. [网易新闻] 广汽丰田一季度累计销量17.15万台 同比实现正增长
+     时间:2026-04-01 13:04:13
+     链接: https://m.163.com/news/article/KPEB7E8L0519D45U.html
+
+──────────────────────────────────────────────────────────────────────
+  #44  [其他] 受贿/数额/特别  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 受贿数额特别巨大，中国大唐原总经理寇伟一审被判死缓
+     时间:2026-04-01 17:02:22
+     链接: https://m.163.com/news/article/KPEORG7O05568W0A.html
+  2. [澎湃新闻] 受贿数额特别巨大，中国大唐原总经理寇伟一审被判死缓
+     点赞:436 | 评论:65 | 时间:2026-04-01 17:01
+     链接: https://www.thepaper.cn/newsDetail_forward_32871524
+
+──────────────────────────────────────────────────────────────────────
+  #45  [其他] 工业/电商/平台  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 工业电商平台万物集被曝跑路：总部人去楼空 有人被拖欠330万货款
+     时间:2026-04-01 16:28:14
+     链接: https://m.163.com/news/article/KPEMT0BP0511CPVM.html
+  2. [网易新闻] 工业电商平台万物集总部人去楼空，有人被拖欠330万元货款，多个供应商已报案
+     时间:2026-04-01 15:27:14
+     链接: https://m.163.com/news/article/KPEJDABB0511U82T.html
+
+──────────────────────────────────────────────────────────────────────
+  #46  [其他] 月销量/科技/27505  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 奕派科技：3月销量27505辆
+     时间:2026-04-01 15:25:30
+     链接: https://m.163.com/news/article/KPEJA4CA0511A6N9.html
+  2. [网易新闻] 昊铂埃安BU 3月销量38268辆
+     时间:2026-04-01 12:46:14
+     链接: https://m.163.com/news/article/KPEA6GCF05198CJN.html
+
+──────────────────────────────────────────────────────────────────────
+  #47  [其他] 天津市/交通运输/哈啰  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 天津市交通运输委约谈哈啰单车
+     时间:2026-04-01 15:15:58
+     链接: https://m.163.com/news/article/KPEIOM1J05568W0A.html
+  2. [网易新闻] 哈啰单车因超量投放被天津市交通运输委员会约谈
+     时间:2026-04-01 15:14:12
+     链接: https://m.163.com/news/article/KPEILEM20534A4SC.html
+
+──────────────────────────────────────────────────────────────────────
+  #48  [其他] 税务总局/去年/检查  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 税务总局：去年检查高风险个人补缴收入71亿元
+     时间:2026-04-01 14:45:04
+     链接: https://m.163.com/news/article/KPEH03GH05567I2C.html
+  2. [网易新闻] 税务总局：已有7000万纳税人申请退还个税
+     时间:2026-04-01 13:50:36
+     链接: https://m.163.com/news/article/KPEDSCA20519DDQ2.html
+
+──────────────────────────────────────────────────────────────────────
+  #49  [其他] 板块/中航/资本  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 中航资本：沪指涨超1%，医药、半导体等板块拉升，CPO概念等活跃
+     时间:2026-04-01 14:36:13
+     链接: https://m.163.com/news/article/KPEGEI8Q0556HAZA.html
+  2. [网易新闻] 创新药板块强势 广生堂涨停
+     时间:2026-04-01 13:20:32
+     链接: https://m.163.com/news/article/KPEC59NV05568W0A.html
+
+──────────────────────────────────────────────────────────────────────
+  #50  [其他] 300/雅迪/九号  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 雅迪、九号、台铃、爱玛，集体涨价，一台多花300元
+     时间:2026-04-01 14:06:08
+     链接: https://m.163.com/news/article/KPEEOQHU0514R9OJ.html
+  2. [网易新闻] 我还没练出腹肌，300元/次的宠物健身先把狗卷疯了
+     时间:2026-04-01 13:10:38
+     链接: https://m.163.com/news/article/KPEBJ5U3051285EO.html
+
+──────────────────────────────────────────────────────────────────────
+  #51  [其他] 休假/羞耻/等于  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] “不休假等于敬业”？你有休假羞耻吗？
+     时间:2026-04-01 13:58:24
+     链接: https://m.163.com/news/article/KPEEAL770530WJIN.html
+  2. [澎湃新闻] 休假，别再羞耻
+     点赞:283 | 评论:84 | 时间:2026-04-01 16:42
+     链接: https://www.thepaper.cn/newsDetail_forward_32871031
+
+──────────────────────────────────────────────────────────────────────
+  #52  [教育就业] 幼儿园/小朋友/被子  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 幼儿园小朋友裹被子开溜被老师抓包
+     热度:6465714
+     链接: https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%A3%B9%E8%A2%AB%E5%AD%90%E5%BC%80%E6%BA%9C%E8%A2%AB%E8%80%81%E5%B8%88%E6%8A%93%E5%8C%85&sa=fyb_news&rsv_dl=fyb_news
+     4月1日，一名幼儿园小朋友在午休时间裹着被子试图离开，被老师当场发现。据家长描述，孩子性格活泼，事后因担心批评而否认行为...查看更多>
+  2. [微博热搜] 幼儿园小朋友裹被子开溜被老师抓包
+     热度:148330
+     链接: https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%A3%B9%E8%A2%AB%E5%AD%90%E5%BC%80%E6%BA%9C%E8%A2%AB%E8%80%81%E5%B8%88%E6%8A%93%E5%8C%85%23
+     幼儿园小朋友裹被子开溜被老师抓包
+
+──────────────────────────────────────────────────────────────────────
+  #53  [国际其他] 日本/终于/露出  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 日本终于露出獠牙
+     热度:1138791
+     链接: https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%88%E4%BA%8E%E9%9C%B2%E5%87%BA%E7%8D%A0%E7%89%99%23
+     日本终于露出獠牙
+  2. [今日头条] 日本1比0英格兰 日本球迷不愿离场
+     热度:559073
+     链接: https://www.toutiao.com/trending/7622899294198071347/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622899294198071347%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC1%E6%AF%940%E8%8B%B1%E6%A0%BC%E5%85%B0+%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%9C%BA%22%7D&rank=&style_id=40132&topic_id=7622899294198071347
+
+──────────────────────────────────────────────────────────────────────
+  #54  [国际其他] 法国/人口密度/这么  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [知乎热榜] 为什么法国的人口密度这么低？
+     热度:71 万热度
+     链接: https://www.zhihu.com/question/52999363
+     法国面积是英国的 2.3 倍，人口却和英国差不多，都是六千万，看法国大部分是平原，纬度也比英德低，为什么人口密度那么低？如果法国有英德那样的人口密度，就是一亿多...
+  2. [网易新闻] 法国车手感谢张雪机车成就冠军梦想
+     时间:2026-04-01 14:55:17
+     链接: https://m.163.com/news/article/KPEHIPPB0534A4SC.html
+
+──────────────────────────────────────────────────────────────────────
+  #55  [国际其他] 晋级/国乒男线/德国  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [知乎热榜] 国乒男线对德国 3 连败，如何评价中国队近期表现？暴露出了哪些问题？
+     热度:57 万热度
+     链接: https://www.zhihu.com/question/2022833601331433507
+     4 月 1 日晚，2026 年澳门乒乓球世界杯小组赛收官。此番出征的五名国乒男单选手经过小组赛角逐，梁靖崑、陈垣宇、周启豪三人无缘晋级，仅温瑞博、王楚钦入围十六...
+  2. [网易新闻] 16强晋级4席！张本智和晋级，韩国选手1-3出局，林昀儒逆转
+     时间:2026-04-01 12:41:38
+     链接: https://m.163.com/news/article/KPE9U2CP0556DGSY.html
+
+──────────────────────────────────────────────────────────────────────
+  #56  [国际其他] 证明/英国/冻结  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 英国冻结一中国公民及其关联公司超7.38亿元房产：要求3个月内证明购房资金合法，若无法证明或拒绝，英方可完全扣押这些资产
+     时间:2026-04-01 14:22:05
+     链接: https://m.163.com/news/article/KPEFM0EF05561G0D.html
+  2. [网易新闻] 英国冻结一中国公民及关联公司8100万英镑房产，要求3个月内证明购房资金合法
+     时间:2026-04-01 13:15:18
+     链接: https://m.163.com/news/article/KPEBRNEN051492T3.html
+
+──────────────────────────────────────────────────────────────────────
+  #57  [科技互联网] 手机/能换/iPhone  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 3台旧手机能换1台iPhone？实地调查
+     热度:5425598
+     链接: https://www.baidu.com/s?wd=3%E5%8F%B0%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8D%A21%E5%8F%B0iPhone%EF%BC%9F%E5%AE%9E%E5%9C%B0%E8%B0%83%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news
+     近日，社交平台不少帖子称废旧手机回收价走高行情火爆，甚至有自媒体表示“三台旧手机能换一台iPhone”。连日来，记者走访...查看更多>
+  2. [今日头条] 3个旧手机能换一台iPhone吗
+     热度:339095
+     链接: https://www.toutiao.com/trending/7623017445372788755/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623017445372788755%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%223%E4%B8%AA%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8D%A2%E4%B8%80%E5%8F%B0iPhone%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7623017445372788755
+
+──────────────────────────────────────────────────────────────────────
+  #58  [社会万象] 男子/山上/野菜  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 男子山上挖野菜挖到超大地黄
+     热度:6946114
+     链接: https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B1%B1%E4%B8%8A%E6%8C%96%E9%87%8E%E8%8F%9C%E6%8C%96%E5%88%B0%E8%B6%85%E5%A4%A7%E5%9C%B0%E9%BB%84&sa=fyb_news&rsv_dl=fyb_news
+     近日，一名男子在山上挖野菜时意外挖到超大地黄，其根茎异常粗壮，引发关注。有网友回忆童年时常吸食地黄花的经历。查看更多>
+  2. [今日头条] 男子山上挖野菜挖到超大地黄
+     热度:5045643
+     链接: https://www.toutiao.com/trending/7622872787309199402/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622872787309199402%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%94%B7%E5%AD%90%E5%B1%B1%E4%B8%8A%E6%8C%96%E9%87%8E%E8%8F%9C%E6%8C%96%E5%88%B0%E8%B6%85%E5%A4%A7%E5%9C%B0%E9%BB%84%22%7D&rank=&style_id=40132&topic_id=7622872787309199402
+
+──────────────────────────────────────────────────────────────────────
+  #59  [社会万象] 重返/月球/人类  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [百度热搜] 人类50多年后重返月球轨道
+     热度:3135515
+     链接: https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB50%E5%A4%9A%E5%B9%B4%E5%90%8E%E9%87%8D%E8%BF%94%E6%9C%88%E7%90%83%E8%BD%A8%E9%81%93&sa=fyb_news&rsv_dl=fyb_news
+     当地时间4月1日，美国NASA阿尔忒弥斯二号任务成功发射，四名宇航员搭乘猎户座飞船执行绕月飞行，为1972年阿波罗计划后...查看更多>
+  2. [网易新闻] 美国人要重返月球！阿耳忒弥斯2号载人绕月飞行任务进入最后准备阶段
+     时间:2026-04-01 16:49:18
+     链接: https://m.163.com/news/article/KPEO3IMT0511CPVM.html
+
+──────────────────────────────────────────────────────────────────────
+  #60  [社会万象] 女子/深夜/网约车  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 女子深夜搭网约车遭摸腿性骚扰
+     热度:160693
+     链接: https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%90%AD%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%81%AD%E6%91%B8%E8%85%BF%E6%80%A7%E9%AA%9A%E6%89%B0%23
+     女子深夜搭网约车遭摸腿性骚扰
+  2. [微博热搜] 4岁女孩买汉堡遭女子踢踹母亲发声
+     热度:102857
+     链接: https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B9%B0%E6%B1%89%E5%A0%A1%E9%81%AD%E5%A5%B3%E5%AD%90%E8%B8%A2%E8%B8%B9%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23
+     4岁女孩买汉堡遭女子踢踹母亲发声
+
+──────────────────────────────────────────────────────────────────────
+  #61  [中东局势] 伊朗/最高/领袖  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 伊朗最高领袖首次讲话
+     热度:91788
+     链接: https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A6%96%E6%AC%A1%E8%AE%B2%E8%AF%9D%23
+     伊朗最高领袖首次讲话
+  2. [今日头条] 伊朗最高领袖因战争推迟公开露面
+     热度:457730
+     链接: https://www.toutiao.com/trending/7623749990875742262/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623749990875742262%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%9B%A0%E6%88%98%E4%BA%89%E6%8E%A8%E8%BF%9F%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2%22%7D&rank=&style_id=40132&topic_id=7623749990875742262
+
+──────────────────────────────────────────────────────────────────────
+  #62  [体育赛事] 美加墨/揭幕战/12  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [澎湃新闻] 揭幕战6月12日3点！美加墨世界杯赛程出炉
+     点赞:177 | 评论:75 | 时间:2026-04-01 15:41
+     链接: https://www.thepaper.cn/newsDetail_forward_32871131
+  2. [澎湃新闻] 美加墨世界杯48支参赛球队确定
+     点赞:50 | 评论:62 | 时间:2026-04-01 13:05
+     链接: https://www.thepaper.cn/newsDetail_forward_32870642
+
+──────────────────────────────────────────────────────────────────────
+  #63  [财经金融] 黄金/现货/失守  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 黄金
+     热度:209790
+     链接: https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23
+     黄金
+  2. [今日头条] 现货黄金失守4700美元
+     热度:2769108
+     链接: https://www.toutiao.com/trending/7623968604303658539/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623968604303658539%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884700%E7%BE%8E%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7623968604303658539
+
+──────────────────────────────────────────────────────────────────────
+  #64  [财经金融] 税务总局/加力/纠治  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 三方面出拳！税务总局将加力纠治“开票经济”
+     时间:2026-04-01 14:31:42
+     链接: https://m.163.com/news/article/KPEG7K9H0534A4SC.html
+  2. [网易新闻] 税务总局：加力纠治违规招商引资和“开票经济”涉税问题
+     时间:2026-04-01 14:04:29
+     链接: https://m.163.com/news/article/KPEELPMA0514R9P4.html
+
+──────────────────────────────────────────────────────────────────────
+  #65  [财经金融] 港股/汽车/午后  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [网易新闻] 港股汽车股午后走强 蔚来涨超10%
+     时间:2026-04-01 13:42:15
+     链接: https://m.163.com/news/article/KPEDD2LD053469RG.html
+  2. [网易新闻] 港股汽车股午后走强 蔚来涨近10%
+     时间:2026-04-01 13:36:09
+     链接: https://m.163.com/news/article/KPED1TOT0512B07B.html
+
+──────────────────────────────────────────────────────────────────────
+  #66  [娱乐文化] 多位/明星/优思益  (2 条, 2 个平台) **
+──────────────────────────────────────────────────────────────────────
+  1. [微博热搜] 多位明星发布优思益事件处理说明
+     热度:84124
+     链接: https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E5%8F%91%E5%B8%83%E4%BC%98%E6%80%9D%E7%9B%8A%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E8%AF%B4%E6%98%8E%23
+     多位明星发布优思益事件处理说明
+  2. [网易新闻] 故事是编的、大奖是买的、专家网红是雇的，多位明星曾为其代言；网红销冠保健品“澳洲优思益”被央视曝光
+     时间:2026-04-01 13:58:24
+     链接: https://m.163.com/news/article/KPEEALB00530WJIN.html
+
+──────────────────────────────────────────────────────────────────────
+  #67  [娱乐文化] 游戏/玩家/评价  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [知乎热榜] 如何评价《洛克王国：世界》称自己「登顶游戏免费榜、畅销总榜第一」，并发邮件感谢玩家？
+     热度:108 万热度
+     链接: https://www.zhihu.com/question/2021172612127008460
+     如何评价《洛克王国：世界》制作组发邮件感谢玩家，称自己「登顶 AppStore 游戏免费榜、畅销总榜第一！」？
+  2. [知乎热榜] 到底是「玩家必须适应游戏，游戏不会惯着你」还是「应该做让玩家爽的游戏」？
+     热度:55 万热度
+     链接: https://www.zhihu.com/question/2020774416334725928
+
+──────────────────────────────────────────────────────────────────────
+  #68  [台海两岸] 郑丽文/希望/大陆行  (2 条, 1 个平台) *
+──────────────────────────────────────────────────────────────────────
+  1. [今日头条] 郑丽文希望大陆行能带来两岸春天
+     热度:3382196
+     链接: https://www.toutiao.com/trending/7623938269772008986/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623938269772008986%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E4%B8%BD%E6%96%87%E5%B8%8C%E6%9C%9B%E5%A4%A7%E9%99%86%E8%A1%8C%E8%83%BD%E5%B8%A6%E6%9D%A5%E4%B8%A4%E5%B2%B8%E6%98%A5%E5%A4%A9%22%7D&rank=&style_id=40132&topic_id=7623938269772008986
+  2. [今日头条] 沈伯洋松口参选台北市长遭自家人讽刺
+     热度:277627
+     链接: https://www.toutiao.com/trending/7623215383466606655/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623215383466606655%22%2C%22hot_board_impr_id%22%3A%22202604021137251C4D43C8159944E7247A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%9D%BE%E5%8F%A3%E5%8F%82%E9%80%89%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%BF%E9%81%AD%E8%87%AA%E5%AE%B6%E4%BA%BA%E8%AE%BD%E5%88%BA%22%7D&rank=&style_id=40132&topic_id=7623215383466606655
+
+======================================================================
+  分析完毕
+======================================================================
